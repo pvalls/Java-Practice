@@ -8,7 +8,7 @@ import java.awt.Graphics;
 import java.awt.Color;
 
 /**
- * @author polvalls
+ * @author pvalls
  */
 public class MyWorldWindow extends javax.swing.JFrame {
 

@@ -3,10 +3,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author martisanchez
- */
 public class Vec2D {
    private double x; 
    private double y;
